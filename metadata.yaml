@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '7749'
     url: http://www.gutenberg.org/2009/agents/7749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18013#Representation-of-Deities-of-the-Maya-ManuscriptsPapers-of-the-Peabody-Museum-of-American-Arc_
 gutenberg_bookshelf:
 - Paganism
 - Mythology
