@@ -1,0 +1,43 @@
+_repo: Representation-of-Deities-of-the-Maya-ManuscriptsPapers-of-the-Peabody-Museum-of-American-Arc__18013
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Wesselhoeft, Selma
+    gutenberg_agent_id: '32187'
+    url: http://www.gutenberg.org/2009/agents/32187
+  - agent_name: Parker, A. M. (Alberta M.)
+    alias: Parker, Alberta M.
+    gutenberg_agent_id: '32188'
+    url: http://www.gutenberg.org/2009/agents/32188
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schellhas, Paul
+    birthdate: 1854
+    deathdate: 1945
+    gutenberg_agent_id: '7749'
+    url: http://www.gutenberg.org/2009/agents/7749
+description: ''
+gutenberg_bookshelf:
+- Paganism
+- Mythology
+gutenberg_issued: '2006-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18013'
+  lccn: '05005106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayas -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'Manuscripts, Maya'
+title: 'Representation of Deities of the Maya Manuscripts
+
+  Papers of the Peabody Museum of American Archaeology and Ethnology, Harvard University,
+  Vol. 4, No. 1'
+url: http://www.gutenberg.org/ebooks/18013
